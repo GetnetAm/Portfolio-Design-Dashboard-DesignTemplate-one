@@ -83,3 +83,15 @@
     left: 18rem;
     top: 8rem;
 }
+
+@media screen and (max-width: 480px) {
+    .works{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .w-right{
+        margin-left: -150px;
+        margin-top: 50px;
+    }
+}

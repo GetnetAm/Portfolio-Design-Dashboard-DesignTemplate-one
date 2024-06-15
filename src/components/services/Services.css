@@ -42,3 +42,19 @@
 .cards>*{
     position: absolute;
 }
+
+
+@media screen and (max-width: 480px) {
+    .services{
+       
+        display: flex;
+        flex-direction: column;
+       
+    }
+
+    .cards{
+        margin-top: -150px;
+        
+    }
+
+}

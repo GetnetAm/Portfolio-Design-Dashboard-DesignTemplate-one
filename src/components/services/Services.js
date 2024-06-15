@@ -58,8 +58,7 @@ function Services() {
             details={"Figma, Sketch Photoshop, Adobe xd"}
             />
           </div>
-          
-          
+        
 
 
         </div>
